@@ -27,6 +27,6 @@ int main (int argc, char **argv) {
 			break;
 	}
 	
-    consoleExit(console);	
+	consoleExit(console);	
 	return 0;
 }
